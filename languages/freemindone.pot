@@ -1,0 +1,87 @@
+"Project-Id-Version: Freemindone \n"
+"POT-Creation-Date: 2024-07-09 \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Best House Plants"
+msgstr ""
+
+msgid "Trees Have Aesthetic Value and Improve Property Values. They add beauty to their surroundings by adding color to an area"
+msgstr ""
+
+msgid "Indoor Greenery"
+msgstr ""
+
+msgid "Trees make life better. Spending time among trees and in green spaces has been shown to reduce the stress we carry in our daily lives."
+msgstr ""
+
+msgid "Nature's Touch"
+msgstr ""
+
+msgid "Transform your home into a serene sanctuary with beautiful house plants"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Discover the beauty of bonsai."
+msgstr ""
+
+msgid "Do you want to learn about the art of bonsai, a unique and sophisticated Japanese art of growing ornamental trees?"
+msgstr ""
+
+msgid "Discover"
+msgstr ""
+
+
+msgid "Plant Category"
+msgstr ""
+
+msgid "Sale Up To 50%"
+msgstr ""
+
+msgid "Indoor Plants Collection"
+msgstr ""
+
+msgid "50% OFF"
+msgstr ""
+
+msgid "Deal of the Day"
+msgstr ""
+
+msgid "Cactus Plants Collection"
+msgstr ""
+
+msgid "Shop Now"
+msgstr ""
+
+msgid "Hot Products"
+msgstr ""
+
+msgid "This special promotion lasts for just one day, providing customers with an exclusive opportunity to purchase selected products at significantly reduced prices."
+msgstr ""
+
+msgid "Free Shipping"
+msgstr ""
+
+msgid "All orders over 1 milion vnd"
+msgstr ""
+
+msgid "SECURE PAYMENTS"
+msgstr ""
+
+msgid "CONFIDENCE ON ALL DEVICES"
+msgstr ""
+
+msgid "MONEY BACK"
+msgstr ""
+
+msgid "IF THE ITEM DIDN’T SUIT YOU"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Join Our Newsletter"
+msgstr ""

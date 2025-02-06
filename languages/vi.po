@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-07-10 15:37+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/classes/class-customizer.php:32
+msgid "Best House Plants"
+msgstr "Cây xanh trong nhà"
+
+#: inc/classes/class-customizer.php:48
+msgid "Change slide"
+msgstr ""
+
+#: inc/classes/class-customizer.php:107
+msgid "Change Section 1"
+msgstr ""
+
+#: inc/classes/class-customizer.php:181
+msgid "Change Section Sale"
+msgstr ""
+
+#: inc/classes/class-meta-boxes.php:42
+msgid "Hide page title"
+msgstr ""
+
+#: inc/classes/class-sidebars.php:33
+msgid "Sidebar"
+msgstr ""
+
+#: inc/classes/class-sidebars.php:35
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/classes/class-sidebars.php:43
+msgid "Sidebar-2"
+msgstr ""
+
+#: inc/classes/class-sidebars.php:45
+msgid "Add more widgets here."
+msgstr ""
+
+#: inc/helpers/template-tags.php:110
+msgid "Read More"
+msgstr "Xem Thêm"
+
+#: inc/helpers/template-tags.php:171
+msgid "First"
+msgstr ""
+
+#: inc/helpers/template-tags.php:179
+msgid "Prev"
+msgstr ""
+
+#: inc/helpers/template-tags.php:180
+msgid "Next"
+msgstr ""
+
+#: inc/helpers/template-tags.php:186
+msgid "Last"
+msgstr ""
+
+#: inc/theme_function.php:144
+msgid "Cart totals"
+msgstr ""
+
+#: inc/theme_function.php:159
+msgid "Dashboard"
+msgstr ""
+
+#: inc/theme_function.php:160
+msgid "Orders"
+msgstr ""
+
+#: inc/theme_function.php:161
+msgid "Payment"
+msgstr ""
+
+#: inc/theme_function.php:162
+msgid "Addresses"
+msgstr ""
+
+#: inc/theme_function.php:163
+msgid "Account Details"
+msgstr ""
+
+#: inc/theme_function.php:164
+msgid "Logout"
+msgstr ""
+
+#: search.php:84
+msgid "« Previous"
+msgstr ""
+
+#: search.php:85
+msgid "Next »"
+msgstr ""
+
+#: template-parts/blog/entry-content.php:15
+#, php-format
+msgid "Read more %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/body/categories.php:1 template-parts/body/hot-product.php:1
+msgid "Discover"
+msgstr "Khám phá"
+
+#: template-parts/body/hot-product.php:2
+msgid "Hot Products"
+msgstr "Sản Phẩm Hot"
+
+#: template-parts/body/main-slider.php:12
+#: template-parts/body/main-slider.php:19
+#: template-parts/body/main-slider.php:26 template-parts/body/section-2.php:11
+#: template-parts/body/section-2.php:22
+msgid "Learn More"
+msgstr "Xem Thêm"
+
+#: template-parts/body/section-2.php:29
+msgid "Shop Now"
+msgstr "Cửa hàng"
+
+#: template-parts/body/section-3.php:27
+msgid "Deal of the Day"
+msgstr "Giảm giá trong ngày"
+
+#: template-parts/body/section-3.php:28
+msgid ""
+"This special promotion lasts for just one day, providing customers with an "
+"exclusive opportunity to purchase selected products at significantly reduced "
+"prices."
+msgstr ""
+"Chương trình khuyến mãi đặc biệt này chỉ kéo dài trong một ngày, mang đến "
+"cho khách hàng cơ hội độc quyền mua các sản phẩm được chọn với mức giá giảm "
+"đáng kể."
+
+#: template-parts/body/section-3.php:51
+msgid "Free Shipping"
+msgstr "Miễn Phí Vận Chuyển"
+
+#: template-parts/body/section-3.php:52
+msgid "All orders over 1 milion vnd"
+msgstr "Tất cả đơn hàng trên 1 triệu"
+
+#: template-parts/body/section-3.php:58
+msgid "SECURE PAYMENTS"
+msgstr "Thanh toán an toàn"
+
+#: template-parts/body/section-3.php:59
+msgid "CONFIDENCE ON ALL DEVICES"
+msgstr "VỚI NHIỀU HÌNH THỨC THANH TOÁN"
+
+#: template-parts/body/section-3.php:65
+msgid "MONEY BACK"
+msgstr "Hoàn tiền"
+
+#: template-parts/body/section-3.php:66
+msgid "IF THE ITEM DIDN’T SUIT YOU"
+msgstr "Nếu sản phẩm không phù hợp với bạn"
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>"
+msgstr ""
+
+#: template-parts/footer/main-footer.php:8
+msgid "Information"
+msgstr "Thông Tin"
+
+#: template-parts/footer/main-footer.php:25
+msgid "Join Our Newsletter"
+msgstr "Tham Gia Cùng Chúng Tôi"
+
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart.php:67 woocommerce/cart/mini-cart.php:55
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:25
+msgid "Calculate shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/order-received.php:35
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:35
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Log out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:45
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">billing address</a>, and <a "
+"href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:48
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping and billing addresses</a>, "
+"and <a href=\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "I have read and agree with the Terms and Condition and Privacy Policy"
+msgstr "Tôi đã đọc và đồng ý với Điều khoản và Chính sách quyền riêng tư"
+
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:27
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/order/attribution-details.php:127
+msgid "The number of unique pages viewed by the customer prior to this order."
+msgstr ""
+
+#: woocommerce/order/customer-history.php:31
+msgid ""
+"Total number of non-cancelled, non-failed orders for this customer, "
+"including the current one."
+msgstr ""
+
+#: woocommerce/order/customer-history.php:46
+msgid ""
+"This is the Customer Lifetime Value, or the total amount you have earned "
+"from this customer's orders."
+msgstr ""
+
+#: woocommerce/order/tracking.php:30
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "Sản Phẩm Hot"
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr "Thông Tin"
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
+#~ msgid ""
+#~ "Trees Have Aesthetic Value and Improve Property Values. They add beauty "
+#~ "to their surroundings by adding color to an area"
+#~ msgstr ""
+#~ "Cây đem lại giá trị thẩm mỹ và nâng cao giá trị cho ngôi nhà. Chúng làm "
+#~ "đẹp cho môi trường xung quanh bằng cách tô điểm màu sắc"
+
+#~ msgid "Indoor Greenery"
+#~ msgstr "Cây xanh trong nhà"
+
+#~ msgid ""
+#~ "Trees make life better. Spending time among trees and in green spaces has "
+#~ "been shown to reduce the stress we carry in our daily lives."
+#~ msgstr ""
+#~ "Cây làm cuộc sống tốt đẹp hơn. Thời gian chăm sóc cây và các không gian "
+#~ "xanh đã được chứng minh là giảm căng thẳng trong cuộc sống hàng ngày."
+
+#~ msgid "Nature's Touch"
+#~ msgstr "Chạm vào tự nhiên"
+
+#~ msgid ""
+#~ "Transform your home into a serene sanctuary with beautiful house plants"
+#~ msgstr ""
+#~ "Biến ngôi nhà của bạn thành nơi thanh bình với những chậu cây xinh đẹp"
+
+#~ msgid "Discover the beauty of bonsai."
+#~ msgstr "Khám phá vẻ đẹp của bon sai."
+
+#~ msgid ""
+#~ "Do you want to learn about the art of bonsai, a unique and sophisticated "
+#~ "Japanese art of growing ornamental trees?"
+#~ msgstr ""
+#~ "Bạn có muốn tìm hiểu về nghệ thuật bonsai, một nghệ thuật độc đáo và tinh "
+#~ "tế của Nhật Bản trong việc trồng cây cảnh?"
+
+#~ msgid "Plant Category"
+#~ msgstr "Danh mục cây"
+
+#~ msgid "Sale Up To 50%"
+#~ msgstr "Giảm đến 50%"
+
+#~ msgid "Indoor Plants Collection"
+#~ msgstr "Bộ Sưu Tập Cây Trong Nhà"
+
+#~ msgid "50% OFF"
+#~ msgstr "Giảm 50%"
+
+#~ msgid "Cactus Plants Collection"
+#~ msgstr "Bộ Sưu Tập Xương Rồng"
